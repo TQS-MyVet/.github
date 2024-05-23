@@ -1,3 +1,6 @@
+## MyVet
+This project aims to develop a MVP for a veterinary clinic management system. The system will be composed of a backend API, an admin interface, a client interface and a Digital Signage System. The backend API will be developed using Spring Boot, the interfaces will be developed in React. The project will be developed using the Scrum methodology, with a duration of 6 weeks.
+
 ## Members of the group
 
 | Nmec   | Name                | Email                       | Github                                                      | Roles            |
